@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/yblaada/gameLauncher/issues"
   },
-  "homepage": "https://github.com/yblaada/gameLauncher#readme"
+  "homepage": "https://github.com/yblaada/gameLauncher#readme",
+  "devDependencies": {
+    "electron": "^24.0.0"
+  }
 }
